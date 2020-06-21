@@ -37,5 +37,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11545976/85235043-4e8efe00-b3e8-11ea-8a73-143e3dd978d1.png" alt="Discord image preview" />
 </p>
-
-:speech_balloon:
